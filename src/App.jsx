@@ -485,7 +485,7 @@ Happy birthday once again, Aira! Semoga aira selalu bahagia, sehat, dan dikelili
 
               {/* Isi Deskripsi Lucu */}
               <p className="text-xs md:text-sm text-zinc-700 max-w-sm leading-relaxed px-2 font-medium font-sans">
-                Atas pencapaiannya yang luar biasa sebagai <span className="text-pink-600 font-extrabold">"Wanita Terbaik, Terlucu, dan Tercantik"</span> di jagat raya. Terbukti ahli dalam angkat galon dan karpet sendiri wkwkwk, jago dengerin curhat, dan selalu dibekali tingkat ke random an yang bikin hari-hari jadi seru! 💕
+                Atas pencapaiannya yang luar biasa sebagai <span className="text-pink-600 font-extrabold">"Wanita Terbaik, Terlucu, dan Tercantik"</span> di jagat raya. Terbukti ahli dalam angkat galon dan karpet sendiri wkwkwk, jago dengerin curhat, dan selalu dibekali tingkat ke randoman yang bikin hari-hari jadi seru! 💕
               </p>
 
               {/* Kaki Sertifikat: Tanggal & Tanda Tangan */}
